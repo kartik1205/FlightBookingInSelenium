@@ -1,0 +1,13 @@
+
+<suite name="Suite">
+   <test thread-count="5" name="Test">
+     <classes>
+        <class name="testpckg.testcaseclass">
+           <methods>
+           <include name="returnTicket" />
+           <include name="validateCredentials" />
+       </methods>
+        </class>
+     </classes>
+    </test>
+</suite> 

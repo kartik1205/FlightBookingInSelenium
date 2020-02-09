@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-02-09T05:23:03Z" name="Suite" finished-at="2020-02-09T05:23:34Z" duration-ms="30652">
+    <groups>
+    </groups>
+    <test started-at="2020-02-09T05:23:03Z" name="Test" finished-at="2020-02-09T05:23:34Z" duration-ms="30652">
+      <class name="testpckg.testcaseclass">
+        <test-method is-config="true" signature="beforeSuite()[pri:0, instance:testpckg.testcaseclass@2b546384]" started-at="2020-02-08T21:23:03Z" name="beforeSuite" finished-at="2020-02-08T21:23:03Z" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:testpckg.testcaseclass@2b546384]" started-at="2020-02-08T21:23:03Z" name="beforeClass" finished-at="2020-02-08T21:23:03Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method is-config="true" signature="beforeMethodClass()[pri:0, instance:testpckg.testcaseclass@2b546384]" started-at="2020-02-08T21:23:03Z" name="beforeMethodClass" finished-at="2020-02-08T21:23:13Z" duration-ms="9834" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethodClass -->
+        <test-method signature="returnTicket()[pri:0, instance:testpckg.testcaseclass@2b546384]" started-at="2020-02-08T21:23:13Z" name="returnTicket" finished-at="2020-02-08T21:23:34Z" duration-ms="20796" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- returnTicket -->
+        <test-method is-config="true" signature="close()[pri:0, instance:testpckg.testcaseclass@2b546384]" started-at="2020-02-08T21:23:34Z" name="close" finished-at="2020-02-08T21:23:34Z" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:testpckg.testcaseclass@2b546384]" started-at="2020-02-08T21:23:34Z" name="afterClass" finished-at="2020-02-08T21:23:34Z" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method is-config="true" signature="afterSuite()[pri:0, instance:testpckg.testcaseclass@2b546384]" started-at="2020-02-08T21:23:34Z" name="afterSuite" finished-at="2020-02-08T21:23:35Z" duration-ms="650" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- testpckg.testcaseclass -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
